@@ -1,0 +1,19 @@
+.btn{
+    margin-right:10px ;
+}
+.container{
+    width: 150px;
+}
+h1{
+    text-align: center;
+}
+.download{
+    margin-top: 10px;
+    background-color: rgb(65, 227, 65);
+    text-decoration: none;
+
+}
+.download a{
+    text-decoration: none;
+    color: white;
+}
